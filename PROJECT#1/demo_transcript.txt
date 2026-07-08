@@ -1,0 +1,19 @@
+DecodeBot: Hello! I'm a rule-based chatbot. Type 'help' any time, or 'bye' to exit.
+You: Hello
+DecodeBot: Hi there! I'm DecodeBot, your rule-based training assistant. Type 'help' to see what I can do.
+You:   HeLLo  
+DecodeBot: Hi there! I'm DecodeBot, your rule-based training assistant. Type 'help' to see what I can do.
+You: how are you
+DecodeBot: I'm just a set of if-else... well, dictionary rules, so I'm always running at 100%! How about you?
+You: what is your name
+DecodeBot: I'm DecodeBot -- a deterministic, rule-based chatbot built for Project 1 of the AI Industrial Training Kit.
+You: help
+DecodeBot: I can greet you, answer a few basic questions, and say goodbye. Every reply I give comes from an explicit rule -- no guessing.
+You: thanks
+DecodeBot: You're welcome!
+You: what is decodelabs
+DecodeBot: DecodeLabs runs the Industrial Training Kit this project is part of.
+You: asdkjfh this makes no sense
+DecodeBot: I do not understand. Type 'help' to see what I can talk about, or 'bye' to exit.
+You: bye
+DecodeBot: Goodbye! Thanks for chatting with DecodeBot.
