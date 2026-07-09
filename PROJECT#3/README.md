@@ -1,10 +1,10 @@
 # Project 3: AI Recommendation Logic — Tech Stack Recommender
 
-**DecodeLabs Artificial Intelligence Internship — Industrial Training Kit (Batch 2026)**
+**DecodeLabs Artificial Intelligence Internship Industrial Training Kit (Batch 2026)**
 
 ## Overview
 
-This project builds a **Content-Based Filtering** recommendation engine —
+This project builds a **Content-Based Filtering** recommendation engine
 the "Digital Matchmaker" described in the training material — that maps a
 user's raw skills / interests to the most relevant **job roles / tech
 stacks**, using **TF-IDF vectorization** and **Cosine Similarity**.
@@ -23,7 +23,7 @@ Build a simple recommendation system based on user preferences:
 ## Files
 
 ```
-project3_tech_stack_recommender.py   -> Full end-to-end pipeline (run this)
+project3_tech_stack_recommender.py   -> Full end-to-end pipeline 
 raw_skills.csv                       -> Dataset: 15 job roles + their required skills
 README.md                            -> This file
 ```
