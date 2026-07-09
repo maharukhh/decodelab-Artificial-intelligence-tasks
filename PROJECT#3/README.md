@@ -128,4 +128,9 @@ inference, as covered in the slides.
 - Compare content-based results against a simple collaborative-filtering baseline.
 
 ---
-**DecodeLabs** · www.decodelabs.tech · decodelabs.tech@gmail.com
+👩‍💻 Author
+Mahrukh
+
+Robotics & Intelligent Systems Student
+
+This project was completed as part of my Virtual Internship at DecodeLabs, where I gained hands-on experience with supervised machine learning and data classification using Python and scikit-learn.
