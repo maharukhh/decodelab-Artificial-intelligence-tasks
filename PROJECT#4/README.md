@@ -135,3 +135,8 @@ Both comfortably clear the mandatory 80% confidence gate.
 - Combine both paths: run object detection first, then OCR on any detected sign/label regions.
 
 ---
+👩‍💻 Author Mahrukh
+
+Robotics & Intelligent Systems Student
+
+This project was completed as part of my Virtual Internship at DecodeLabs, where I gained hands-on experience with supervised machine learning and data classification using Python and scikit-learn.
